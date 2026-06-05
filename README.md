@@ -155,7 +155,7 @@ Display Result
 ```text
 FaceMaskDetection/
 │
-├── dataset/
+├── dataset/ #dataset I used is https://www.kaggle.com/datasets/omkargurav/face-mask-dataset from kaggle.
 │
 ├── model/
 │   └── face_mask_detector_finetuned.h5
